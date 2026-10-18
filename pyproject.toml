@@ -29,9 +29,9 @@ classifiers = [
 dev = ["pytest", "pytest-asyncio", "ruff", "mypy", "bandit"]
 
 [project.urls]
-Homepage = "https://github.com/FlossWare/cache-ai"
-Repository = "https://github.com/FlossWare/cache-ai"
-Issues = "https://github.com/FlossWare/cache-ai/issues"
+Homepage = "https://github.com/FlossWare/cache"
+Repository = "https://github.com/FlossWare/cache"
+Issues = "https://github.com/FlossWare/cache/issues"
 
 [tool.setuptools.packages.find]
 include = ["cache_ai*"]
